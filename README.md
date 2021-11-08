@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title> Der Titel des Dokuments</title>
+    
   </head>
   <body>
     <h1>So deaktivieren Sie das Herunterladen des PDF-Dokuments</h1>
